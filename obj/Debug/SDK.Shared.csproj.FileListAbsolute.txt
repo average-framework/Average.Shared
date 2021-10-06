@@ -1,0 +1,14 @@
+C:\Users\bubbl\Desktop\Average Framework\SDK.Shared\obj\Debug\SDK.Shared.csproj.CoreCompileInputs.cache
+C:\Users\bubbl\Desktop\Average Framework\SDK.Shared\bin\Debug\SDK.Shared.dll
+C:\Users\bubbl\Desktop\Average Framework\SDK.Shared\bin\Debug\SDK.Shared.pdb
+C:\Users\bubbl\Desktop\Averagge Framework TestServer\resources\avg\libs\sdk.shared.dll
+C:\Users\bubbl\Desktop\Averagge Framework TestServer\resources\avg\libs\sdk.shared.pdb
+C:\Users\bubbl\Desktop\Average Framework\SDK.Shared\obj\Debug\SDK.Shared.csproj.CopyComplete
+C:\Users\bubbl\Desktop\AverageFrameworkServer\resources\avg\libs\sdk.shared.net.dll
+C:\Users\bubbl\Desktop\Average Framework\SDK.Shared\obj\Debug\sdk.shared.net.dll
+C:\Users\bubbl\Desktop\Average Framework\SDK.Shared\obj\Debug\SDK.Shared.csproj.AssemblyReference.cache
+C:\Users\bub.bl\Desktop\AverageFrameworkServer\resources\avg\libs\sdk.shared.net.dll
+C:\Users\bub.bl\Desktop\Average Framework\SDK.Shared\obj\Debug\SDK.Shared.csproj.CoreCompileInputs.cache
+C:\Users\bub.bl\Desktop\Average Framework\SDK.Shared\obj\Debug\SDK.Shared.csproj.CopyComplete
+C:\Users\bub.bl\Desktop\Average Framework\SDK.Shared\obj\Debug\sdk.shared.net.dll
+C:\Users\bub.bl\Desktop\Average Framework\SDK.Shared\obj\Debug\SDK.Shared.csproj.AssemblyReference.cache

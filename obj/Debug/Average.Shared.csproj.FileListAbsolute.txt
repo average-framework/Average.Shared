@@ -1,0 +1,12 @@
+C:\Users\bub.bl\Desktop\Average Framework\SDK.Shared\obj\Debug\Average.Shared.csproj.CoreCompileInputs.cache
+C:\Users\bub.bl\Desktop\AverageFrameworkServer\resources\avg\libs\average.shared.net.dll
+C:\Users\bub.bl\Desktop\Average Framework\Average.Shared\obj\Debug\Average.Shared.csproj.CoreCompileInputs.cache
+C:\Users\bub.bl\Desktop\Average Framework\Average.Shared\obj\Debug\average.shared.net.dll
+C:\Users\bub.bl\Desktop\Average Framework\Average.Shared\obj\Debug\Average.Shared.csproj.AssemblyReference.cache
+C:\Users\bub.bl\Desktop\Average Framework Test\Average.Shared\obj\Debug\Average.Shared.csproj.AssemblyReference.cache
+C:\Users\bub.bl\Desktop\Average Framework Test\Average.Shared\obj\Debug\Average.Shared.csproj.CoreCompileInputs.cache
+C:\Users\bub.bl\Desktop\Average Framework Test\Average.Shared\obj\Debug\Average.Shared.net.dll
+C:\Users\bub.bl\Desktop\Average Framework MongoDB\Average.Shared\obj\Debug\Average.Shared.csproj.CoreCompileInputs.cache
+C:\Users\bub.bl\Desktop\Average Framework MongoDB\Average.Shared\obj\Debug\Average.Shared.net.dll
+C:\Users\bub.bl\Desktop\AverageFrameworkServerMongo\resources\avg\libs\Average.Shared.net.dll
+C:\Users\bub.bl\Desktop\Average Framework MongoDB\Average.Shared\obj\Debug\Average.Shared.csproj.AssemblyReference.cache

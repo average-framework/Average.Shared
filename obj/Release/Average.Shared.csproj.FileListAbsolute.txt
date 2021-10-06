@@ -1,0 +1,9 @@
+C:\Users\bub.bl\Desktop\Average Framework\Average.Shared\obj\Release\Average.Shared.csproj.AssemblyReference.cache
+C:\Users\bub.bl\Desktop\Average Framework\Average.Shared\obj\Release\Average.Shared.csproj.CoreCompileInputs.cache
+C:\Users\bub.bl\Desktop\Average Framework\Average.Shared\bin\Release\Average.Shared.net.dll
+C:\Users\bub.bl\Desktop\Average Framework\Average.Shared\bin\Release\Average.Shared.net.pdb
+C:\Users\bub.bl\Desktop\Average Framework\Average.Shared\bin\Release\CitizenFX.Core.dll
+C:\Users\bub.bl\Desktop\Average Framework\Average.Shared\bin\Release\Newtonsoft.Json.dll
+C:\Users\bub.bl\Desktop\Average Framework\Average.Shared\obj\Release\Average.Shared.csproj.CopyComplete
+C:\Users\bub.bl\Desktop\Average Framework\Average.Shared\obj\Release\Average.Shared.net.dll
+C:\Users\bub.bl\Desktop\Average Framework\Average.Shared\obj\Release\Average.Shared.net.pdb
