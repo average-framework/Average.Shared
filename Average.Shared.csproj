@@ -58,6 +58,7 @@
   <ItemGroup>
     <Compile Include="Attributes\GetReplicatedAttribute.cs" />
     <Compile Include="Attributes\ReplicateAttribute.cs" />
+    <Compile Include="Attributes\UICallbackAttribute.cs" />
     <Compile Include="DataModels\CharacterData.cs" />
     <Compile Include="DataModels\SkinData.cs" />
     <Compile Include="DataModels\OutfitData.cs" />

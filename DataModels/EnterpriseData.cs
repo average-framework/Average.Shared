@@ -1,7 +1,4 @@
-﻿using Average.Shared.Interfaces;
-using Average.Shared.Models;
-
-namespace Average.Shared.DataModels
+﻿namespace Average.Shared.DataModels
 {
     public class EnterpriseData
     {
