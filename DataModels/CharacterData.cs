@@ -22,6 +22,8 @@ namespace Average.Shared.DataModels
     {
         public string License { get; set; }
 
+        public string CharacterId { get; set; }
+
         public DateTime CreationDate { get; set; }
         public DateTime LastUsing { get; set; }
 

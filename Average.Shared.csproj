@@ -69,6 +69,7 @@
     <Compile Include="DataModels\OverlayData.cs" />
     <Compile Include="DataModels\PositionData.cs" />
     <Compile Include="DataModels\StorageData.cs" />
+    <Compile Include="DataModels\StorageDataType.cs" />
     <Compile Include="DataModels\StorageItemData.cs" />
     <Compile Include="DataModels\UserData.cs" />
     <Compile Include="DataModels\WorldData.cs" />
