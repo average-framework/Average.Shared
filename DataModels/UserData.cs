@@ -34,5 +34,7 @@ namespace Average.Shared.DataModels
         /// Dertermine if the player is connected
         /// </summary>
         public bool IsConnected { get; set; }
+
+        public string SelectedCharacterId { get; set; }
     }
 }
