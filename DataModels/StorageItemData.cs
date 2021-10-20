@@ -1,34 +1,34 @@
 ﻿using System;
 using System.Collections.Generic;
-using static Average.Shared.SharedAPI;
 
 namespace Average.Shared.DataModels
 {
     public class StorageItemData
     {
-        public string UniqueId { get; }
+        public int SlotId { get; set; }
         public string Name { get; set; }
         public int Count { get; set; }
 
         public Dictionary<string, object> Data { get; set; } = new Dictionary<string, object>();
 
-        public StorageItemData()
+        public StorageItemData(string itemName, int itemCount)
         {
-            UniqueId = RandomString();
+            Name = itemName;
+            Count = itemCount;
         }
 
-        public StorageItemData(string name, int count)
+        public StorageItemData(int slotId, string itemName, int itemCount)
         {
-            UniqueId = RandomString();
-            Name = name;
-            Count = count;
+            SlotId = slotId;
+            Name = itemName;
+            Count = itemCount;
         }
 
-        public StorageItemData(string name, int count, Dictionary<string, object> overrideData)
+        public StorageItemData(int slotId, string itemName, int itemCount, Dictionary<string, object> overrideData)
         {
-            UniqueId = RandomString();
-            Name = name;
-            Count = count;
+            SlotId = slotId;
+            Name = itemName;
+            Count = itemCount;
             Data = overrideData;
         }
 
