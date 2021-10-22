@@ -2,8 +2,10 @@
 {
     public enum StorageDataType : int
     {
-        PlayerInventory,
-        VehicleInventory,
-        Chest
+        Player,
+        Vehicle,
+        Chest,
+        Bank,
+        Trade
     }
 }

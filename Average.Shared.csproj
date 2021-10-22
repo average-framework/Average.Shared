@@ -73,6 +73,7 @@
     <Compile Include="DataModels\StorageItemData.cs" />
     <Compile Include="DataModels\UserData.cs" />
     <Compile Include="DataModels\WorldData.cs" />
+    <Compile Include="Enums\ZoneType.cs" />
     <Compile Include="Interfaces\IDatabaseEntity.cs" />
     <Compile Include="Interfaces\IDbEntity.cs" />
     <Compile Include="Models\CommandModel.cs" />
