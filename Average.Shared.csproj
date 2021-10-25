@@ -63,7 +63,7 @@
     <Compile Include="DataModels\SkinData.cs" />
     <Compile Include="DataModels\OutfitData.cs" />
     <Compile Include="DataModels\CoreData.cs" />
-    <Compile Include="DataModels\EconomyData.cs" />
+    <Compile Include="DataModels\BankData.cs" />
     <Compile Include="DataModels\EnterpriseData.cs" />
     <Compile Include="DataModels\JobData.cs" />
     <Compile Include="DataModels\OverlayData.cs" />
@@ -73,6 +73,7 @@
     <Compile Include="DataModels\StorageItemData.cs" />
     <Compile Include="DataModels\UserData.cs" />
     <Compile Include="DataModels\WorldData.cs" />
+    <Compile Include="Enums\BankType.cs" />
     <Compile Include="Enums\ZoneType.cs" />
     <Compile Include="Interfaces\IDatabaseEntity.cs" />
     <Compile Include="Interfaces\IDbEntity.cs" />
@@ -93,6 +94,7 @@
     <Compile Include="Enums\WeaponGroup.cs" />
     <Compile Include="Models\BlipModel.cs" />
     <Compile Include="Models\NpcModel.cs" />
+    <Compile Include="Models\RaycastHit.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Interfaces\IRpcHandler.cs" />
     <Compile Include="Interfaces\IRpcMessage.cs" />

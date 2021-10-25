@@ -3,8 +3,8 @@
     public enum StorageDataType : int
     {
         Player,
-        Vehicle,
         Chest,
+        Vehicle,
         Bank,
         Trade
     }
