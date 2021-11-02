@@ -10,5 +10,10 @@ namespace Average.Shared.DataModels
         public double MaxWeight { get; set; }
         public StorageDataType Type { get; set; }
         public List<StorageItemData> Items { get; set; } = new List<StorageItemData>();
+
+        public StorageData()
+        {
+
+        }
     }
 }

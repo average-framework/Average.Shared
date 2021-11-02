@@ -3,6 +3,7 @@
     public enum Gender : int
     {
         Male,
-        Female
+        Female,
+        Other
     }
 }

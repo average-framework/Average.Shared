@@ -11,6 +11,11 @@ namespace Average.Shared.DataModels
 
         public Dictionary<string, object> Data { get; set; } = new Dictionary<string, object>();
 
+        public StorageItemData()
+        {
+
+        }
+
         public StorageItemData(string itemName, int itemCount)
         {
             Name = itemName;
@@ -30,30 +35,6 @@ namespace Average.Shared.DataModels
             Name = itemName;
             Count = itemCount;
             Data = overrideData;
-        }
-
-        public T GetData<T>(string key)
-        {
-            if (Data.ContainsKey(key))
-            {
-                return (T)Convert.ChangeType(Data[key], typeof(T));
-            }
-            else
-            {
-                return default;
-            }
-        }
-
-        public void SetData(string key, object value)
-        {
-            if (Data.ContainsKey(key))
-            {
-                Data[key] = value;
-            }
-            else
-            {
-                Data.Add(key, value);
-            }
         }
     }
 }
