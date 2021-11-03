@@ -74,6 +74,7 @@
     <Compile Include="DataModels\UserData.cs" />
     <Compile Include="DataModels\WorldData.cs" />
     <Compile Include="Enums\BankType.cs" />
+    <Compile Include="Enums\JobState.cs" />
     <Compile Include="Enums\ZoneType.cs" />
     <Compile Include="Events\WorldTimeEventArgs.cs" />
     <Compile Include="Events\WorldWeatherEventArgs.cs" />
